@@ -1,0 +1,38 @@
+{
+  "name": "meteor-client",
+  "version": "1.2.0",
+  "description": "Meteor client libraries",
+  "main": "meteor-client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:eface2face/meteor-client.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eface2face/meteor-client/issues"
+  },
+  "homepage": "https://github.com/eface2face/meteor-client",
+  "dependencies": {
+    "meteor-base64": "^1.2.0",
+    "meteor-blaze": "^1.2.0",
+    "meteor-blaze-tools": "^1.2.0",
+    "meteor-core": "^1.2.0",
+    "meteor-ejson-safe": "^1.2.0",
+    "meteor-html-tools": "^1.2.0",
+    "meteor-htmljs": "^1.2.0",
+    "meteor-id-map": "^1.2.0",
+    "meteor-minimongo": "^1.2.0",
+    "meteor-observe-sequence": "^1.2.0",
+    "meteor-ordered-dict": "^1.2.0",
+    "meteor-random-window-crypto": "^1.2.0",
+    "meteor-reactive-var": "^1.2.0",
+    "meteor-spacebars": "^1.2.0",
+    "meteor-spacebars-compiler": "^1.2.0",
+    "meteor-templating": "^1.2.0",
+    "meteor-tracker": "^1.2.0"
+  }
+}
