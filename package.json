@@ -25,7 +25,6 @@
     "meteor-html-tools": "^1.2.0",
     "meteor-htmljs": "^1.2.0",
     "meteor-id-map": "^1.2.0",
-    "meteor-minimongo": "^1.2.0",
     "meteor-observe-sequence": "^1.2.0",
     "meteor-ordered-dict": "^1.2.0",
     "meteor-random-window-crypto": "^1.2.0",

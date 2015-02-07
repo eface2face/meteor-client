@@ -5,7 +5,6 @@ module.exports = function(jQuery,underscore) {
   require("meteor-random-window-crypto")(Meteor);
   require("meteor-id-map")(Meteor);
   require("meteor-ordered-dict")(Meteor);
-  require("meteor-minimongo")(Meteor);
   require("meteor-tracker")(Meteor);
   require("meteor-observe-sequence")(Meteor);
   require("meteor-htmljs")(Meteor);
