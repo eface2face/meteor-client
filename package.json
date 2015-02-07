@@ -1,6 +1,6 @@
 {
   "name": "meteor-client",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "description": "Meteor client libraries",
   "main": "meteor-client.js",
   "scripts": {
@@ -28,6 +28,7 @@
     "meteor-observe-sequence": "^1.2.0",
     "meteor-ordered-dict": "^1.2.0",
     "meteor-random-window-crypto": "^1.2.0",
+    "meteor-reactive-object-map": "^1.0.0",
     "meteor-reactive-var": "^1.2.0",
     "meteor-spacebars": "^1.2.0",
     "meteor-spacebars-compiler": "^1.2.0",
