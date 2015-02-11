@@ -1,5 +1,5 @@
 # meteor-client
-This project encapsulate the original Meteor client libraries so they can be used with browserify without the Meteor server side. The main pourpose is to be able to use Blaze templates with Tracker reactive data binding from any web application.
+This project encapsulate the original [Meteor](https://www.meteor.com/) client libraries so they can be used with browserify without the Meteor server side. The main pourpose is to be able to use Blaze templates with Tracker reactive data binding from any web application.
 
 The followed packages are included:
    * [Meteor] 
