@@ -41,6 +41,9 @@ var Meteor = require('meteor-client')($,_);
 ## Documentation
 Please refer to [Meteor documentation](http://docs.meteor.com/#/full/) for the detailed information about each package.
 
+## See also
+We have also made available a [jQuery plugin](https://github.com/eface2face/jquery-meteor-blaze) to make it easier to use dynamic blaze templates.
+
 ## Author
 
 Sergio Garcia Murillo @eface2face
