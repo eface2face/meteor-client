@@ -3,9 +3,12 @@ module.exports = function(jQuery,underscore) {
   require("meteor-base64")(Meteor);
   require("meteor-ejson-safe")(Meteor);
   require("meteor-random-window-crypto")(Meteor);
+  require("meteor-diff-sequence")(Meteor);
+  require("meteor-mongo-id")(Meteor);
   require("meteor-id-map")(Meteor);
   require("meteor-ordered-dict")(Meteor);
   require("meteor-tracker")(Meteor);
+  require("meteor-minimongo")(Meteor);
   require("meteor-observe-sequence")(Meteor);
   require("meteor-htmljs")(Meteor);
   require("meteor-html-tools")(Meteor);
